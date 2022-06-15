@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Gaurav here 😏
+### Hi there 👋 Gaurav here 😏
 <!--
 **onerouskin/onerouskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
