@@ -12,10 +12,10 @@ Here are some ideas to get you started:
  <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> <br/> 
  
 
-- 
-- 🔭 I’m currently working on RTKL and FIT Height.
-- 🌱 I’m currently learning Android Dev.
-- 👯 I’m looking to collaborate on any Backend or Android Projects.
-- 💬 Ask me about anything.
+<h1>I’m currently:
+- 🔭 Exploring Android Dev using flutter.
+- 🌱 Learning DSA.
+- 👯 Looking to collaborate on Backend or Android Projects.
+- 💬 Open to questions and queries.
 - ⚡ Fun fact: Roses are #FF0000 , Violets are #0000FF
 
