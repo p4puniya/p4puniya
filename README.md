@@ -13,7 +13,7 @@ Here are some ideas to get you started:
  
 I’m currently:
 - 🔭 Exploring Android Dev using flutter.
-- 🌱 Learning DSA. 
+- 🌱 Learning DSA practicing questions. 
 - 👯 Looking to collaborate on Backend or Android Projects.
 - 💬 Open to questions and queries.
 - ⚡ Fun fact: Roses are #FF0000 , Violets are #0000FF
