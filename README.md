@@ -12,9 +12,12 @@ Here are some ideas to get you started:
  <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /><br/><br/> 
  
 I’m currently:
-- 🔭 Exploring Android Dev using flutter.
-- 🌱 Learning DSA practicing questions. 
-- 👯 Looking to collaborate on Backend or Android Projects.
+- 🔭 Exploring Dev-Ops.
+    - Learning about CI/CD pipelining, AWS, Kubernetes and all that's related.
+    - Working on a DRDO project. (p.s. It's awesome!)
+    - Working on the College app namely NSUT ONE. (ps. NSUTX doesn't open up anymore :P)
+- 🌱 Learning DSA and practicing questions. (Don't enjoy it to be quite frank... but need it for placements. (ㆆ_ㆆ)
+- 👯 Looking for an internternship that could help me grow at an exponential rate.
 - 💬 Open to questions and queries.
 - ⚡ Fun fact: Roses are #FF0000 , Violets are #0000FF
 
