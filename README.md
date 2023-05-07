@@ -13,11 +13,11 @@ Here are some ideas to get you started:
  
 I’m currently:
 - 🔭 Exploring Open-Source.
+    - GSOC 2023 contributor at Processing Foundation. 
     - Contributing to Giskard.
     - Working on a DRDO project. (p.s. It's awesome!)
     - Working on the College app namely NSUT ONE. (ps. NSUTX doesn't open up anymore :P)
 - 🌱 Learning DSA and practicing questions. (Don't enjoy it to be quite frank... but need it for placements. (ㆆ_ㆆ)
-- 👯 Looking for an internternship that could help me grow at an exponential rate.
 - 💬 Open to questions and queries.
 - ⚡ Fun fact: Roses are #FF0000 , Violets are #0000FF
 
